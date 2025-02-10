@@ -1,8 +1,5 @@
-
-
 provider "aws" {
-  region  = "ap-south-1"
-  profile = "swapnil"
+  region = "ap-south-1"
 }
 
 
